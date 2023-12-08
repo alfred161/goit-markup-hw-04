@@ -490,3 +490,7 @@ img {
 .customer-social-media-account {
   fill: currentColor;
 }
+
+.footer-social-media-account {
+  fill: var(--dirty-white);
+}
