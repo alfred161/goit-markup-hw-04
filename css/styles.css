@@ -238,12 +238,17 @@ nav li a:first-child:focus {
   margin-bottom: 16px;
 }
 
-.footer div,
 .footer a {
   display: inline-block;
 }
 
-.footer div {
+.footer > .container {
+  display: flex;
+  align-items: baseline;
+}
+
+.footer-logo-container {
+  display: flex;
   margin-right: 120px;
 }
 
