@@ -453,6 +453,10 @@ img {
   background-color: var(--light-blue-focus);
 }
 
+.social-media {
+  fill: var(--dirty-white);
+}
+
 .footer-social-media-content {
   font-weight: 500;
   font-size: 16px;
