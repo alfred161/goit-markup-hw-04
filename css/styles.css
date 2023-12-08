@@ -486,3 +486,7 @@ img {
 .footer-social-media-link:focus {
   background-color: var(--mint);
 }
+
+.customer-social-media-account {
+  fill: currentColor;
+}
