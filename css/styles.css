@@ -195,17 +195,12 @@ nav li a:first-child:focus {
   margin-bottom: 72px;
 }
 
-.employees ul li {
+.team {
   background-color: var(--white);
-}
-.employees li:first-child {
   font-weight: 500;
   font-size: 20px;
   letter-spacing: 0.02em;
   color: var(--grey);
-}
-
-.team {
   width: calc((100% - 72px) / 4);
   border-radius: 0px 0px 4px 4px;
   box-shadow: 0px 1px 6px rgba(46, 47, 66, 0.08),
