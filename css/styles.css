@@ -486,10 +486,6 @@ img {
   justify-content: center;
 }
 
-.footer-social-media-link:hover {
-  background-color: var(--mint);
-}
-
 .customer-brand {
   fill: currentColor;
 }
@@ -498,6 +494,7 @@ img {
   fill: var(--dirty-white);
 }
 
+.footer-social-media-link:hover,
 .footer-social-media-link:focus {
   background-color: var(--mint);
 }
